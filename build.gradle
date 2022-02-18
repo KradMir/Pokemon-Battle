@@ -21,7 +21,7 @@ sourceSets {
  main {
    java {
      exclude 'src/main/java/**'
-     include 'src/main/java/Player'
+     include 'src/main/java/Player.java'
    }
  }
 }
