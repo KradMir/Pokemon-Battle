@@ -20,8 +20,7 @@ pmd {
 sourceSets {
  main {
    java {
-     exclude '*.java'
-     include 'Player.java'
+     exclude 'Move.java'
    }
  }
 }
