@@ -14,5 +14,5 @@ pmd {
  consoleOutput = true
  toolVersion = "6.39.0"
  ignoreFailures = true
- 
+ ruleSets = ["category/java/errorprone.xml", "category/java/codestyle.xml", "category/java/design.xml"]
 }
